@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix MargaNetra",
+  "description": "Real-time traffic surveillance, Neura-X AI forecasting, spillback tracing, emergency green wave corridor dispatch, and live highway monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
